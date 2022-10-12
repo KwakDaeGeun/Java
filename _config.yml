@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "D.K Study Posting"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kwak DeaGeun"
-description              : "Post what I've learned."
+name                     : # "Kwak DeaGeun"
+description              : # "Post what I've learned."
 url                      : "https://KwakDaeGeun.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -280,7 +280,7 @@ compress_html:
 
 # Defaults
 defaults:
-  #_posts
+  # _posts
   - scope:
       path: ""
       type: posts
