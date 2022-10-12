@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "D.K Menu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/icon_image.jpg"
   bio              : "잘해보고싶은 코딩."
   location         : "Somewhere"
   email            : "etg1346@naver.com"
