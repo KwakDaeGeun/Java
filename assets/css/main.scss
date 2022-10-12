@@ -12,3 +12,13 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 @import "minimal-mistakes"; // main partials
 
 @import url('https://webfontworld.github.io/NexonMaplestory/NexonMaplestory.css');
+
+.highlight {
+  font-family: $monospace;
+  font-size: $type-size-4-5;
+}
+
+.language-plaintext {
+  font-family: $monospace;
+  font-size: $type-size-5;
+}
