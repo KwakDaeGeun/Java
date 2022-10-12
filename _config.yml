@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "잘해보고싶은 코딩."
   location         : "Somewhere"
-  email            :  etg1346@naver.com
+  email            : "etg1346@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
