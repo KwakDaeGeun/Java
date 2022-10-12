@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "D.K Meun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "잘해보고싶은 코딩."
   location         : "Somewhere"
-  email            :
+  email            :  etg1346@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
