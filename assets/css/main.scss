@@ -11,4 +11,4 @@ $type-size-4-5: 1.12em !default; // Ubuntu Mono is a bit small
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-@import url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/MaplestoryOTFLight.woff') format('woff');
+@import url('https://webfontworld.github.io/NexonMaplestory/NexonMaplestory.css');
