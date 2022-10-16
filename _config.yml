@@ -292,12 +292,6 @@ defaults:
       related: true
       sidebar:                  
         nav: "sidebar-category" 
-        
-tipue_search:
-     include:
-         pages: false
-         collections: []
-     exclude:
-         files: [search.html, index.html, tags.html]
-         categories: []
-         tags: []
+ 
+ search                   : true # true로 해야 활성화됨
+search_full_content      : true # 내용까지 검색되게 하려면 true
