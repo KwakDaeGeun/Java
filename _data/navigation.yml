@@ -11,7 +11,9 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Search"
-    url: /Search/
+    url: /search/
+    
+    
 sidebar-category:
   - title: "Category"
     children:
