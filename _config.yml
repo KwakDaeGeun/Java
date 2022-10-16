@@ -292,3 +292,12 @@ defaults:
       related: true
       sidebar:                  
         nav: "sidebar-category" 
+        
+tipue_search:
+     include:
+         pages: false
+         collections: []
+     exclude:
+         files: [search.html, index.html, tags.html]
+         categories: []
+         tags: []
