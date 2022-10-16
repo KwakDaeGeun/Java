@@ -5,4 +5,8 @@ categories:
   - java
 ---
 
-### System.out.println("HelloWorld");
+### HelloWorld
+
+```java
+ System.out.println("HelloWorld");
+```
