@@ -1,5 +1,5 @@
 ---
-title: "Database"
+title: "blog"
 layout: archive
 permalink: /Database
 ---
