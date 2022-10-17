@@ -1,12 +1,13 @@
 ---
 layout: single
-title:  "[Java] String"
+title:  "[Java] String 문자열"
 categories:
   - java
 ---
 
 
-### String
+### String 문자열
+
 ```java
     System.out.println(str1.toLowerCase());		// 기존 문자열을 소문자로 변환
 		System.out.println(str1.toUpperCase());		// 기존 문자열을 대문자로 변환
@@ -22,7 +23,6 @@ categories:
 		}else {
 			System.out.println(false);
 		}
-
 ```
 
 
