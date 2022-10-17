@@ -1,5 +1,5 @@
 ---
-title: "Html"
+title: "blog"
 layout: archive
 permalink: /Html
 ---
