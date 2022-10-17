@@ -1,9 +1,10 @@
 ---
 title: "Html"
 layout: archive
-permalink: categories/html
+permalink: /html
 author_profile: true
-
+sidebar:                  
+        nav: "sidebar-category" 
 ---
 
 
