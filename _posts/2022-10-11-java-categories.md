@@ -9,11 +9,9 @@ categories:
 
 ```java
  System.out.println("HelloWorld");
- 
- 
- 
+  
 ```
-
+***
 ### 출력 시 옵션
 ```java
 
@@ -31,5 +29,5 @@ categories:
  
  
 ```
-
+***
  
