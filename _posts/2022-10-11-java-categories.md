@@ -14,9 +14,9 @@ categories:
  
 ```
 
-
+### 출력 시 옵션
 ```java
-// 출력 시 옵션
+
 		
 		//1. 줄 바꿈 : \n
 		System.out.println("\n줄 바꿈");
