@@ -17,10 +17,9 @@ main:
 sidebar-category:
   - title: "Category"
     children:
-     
       - title: "Java"
-        url:  "/java"
+        url:  "categories/java"
       - title: "Database"
-        url:  "/database"
+        url:  "categories/database"
       - title: "Html"
-        url: "/html"
+        url: "categories/html"
