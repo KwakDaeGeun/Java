@@ -1,5 +1,5 @@
 ---
-title:  "html tast 포스팅 입니다!"
+title:  "[html] test 포스팅 입니다!"
 layout: single
 categories:
   - "html"
