@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "Hello World!"
+title:  "[Java] Hello World! 출력"
 categories:
   - java
 ---
 
-### HelloWorld
+### HelloWorld 출력하기
 
 ```java
  System.out.println("HelloWorld");
