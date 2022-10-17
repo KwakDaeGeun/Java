@@ -2,6 +2,9 @@
 title: "Java"
 layout: archive
 permalink: /java
+author_profile: true
+sidebar:                  
+        nav: "sidebar-category" 
 ---
 
 
