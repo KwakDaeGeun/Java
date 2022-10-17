@@ -1,7 +1,9 @@
 ---
 title: "Html"
 layout: archive
-permalink: /html
+permalink: categories/html
+author_profile: true
+
 ---
 
 
