@@ -2,7 +2,7 @@
 layout: single
 categories:
  - DateBase
-title:  "DateBase!"
+title:  "dateBase"
 ---
 
 ### 데이터 베이스.
