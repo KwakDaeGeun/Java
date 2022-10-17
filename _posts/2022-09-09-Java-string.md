@@ -33,7 +33,8 @@ categories:
 		// 지정한 index 부터 모든 문자열을 반환		
 		System.out.println(str1.substring(1));		
 
-		// 지정한 첫 번째 index 부터 두 번째 index 직전 까지의 문자열을 반환
+		// 지정한 첫 번째 index 부터 
+		// 두 번째 index 직전 까지의 문자열을 반환
 		System.out.println(str1.substring(1,3));	
 
 		// 두 개의 문자열 비교(boolean)
