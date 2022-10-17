@@ -1,7 +1,7 @@
 ---
 layout: single
 categories:
- - dateBase
+ - datebase
 title:  "DateBase"
 ---
 
