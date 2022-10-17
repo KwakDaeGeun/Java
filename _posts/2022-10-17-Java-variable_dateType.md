@@ -32,7 +32,7 @@ categories:
 			int ch3 = 'a';      // 아스키코드표에 의하여 출력됨.
       String str1 = null; 	// null : 0번지(주소의 초기화를 0으로 하겠다.)
 			String str2 = ""; 	// "" : 빈 문자열
- ;
+ 
 ```
 ### 다른 값 대입
 ```java
@@ -43,5 +43,5 @@ categories:
 			ch = '한';
 			str1 = "hello";
 			str2 = "java";   //변수에서 값을 저장하고 끝.
- ;
+ 
 ```
