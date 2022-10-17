@@ -1,7 +1,7 @@
 ---
 title: "blog"
 layout: archive
-permalink: /Database
+permalink: /database
 ---
 
 
