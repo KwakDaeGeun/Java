@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[Java] input"
+title:  "[Java] Operator"
 categories:
   - java
 ---
@@ -119,9 +119,9 @@ System.out.println("오른쪽 시프트 : " + (num >> 1) );
 
 - short evaluate 를 지원
 
-  - && : false가 나오면 그 이후는 처리 하지 않음 (어차피 false라서)★
+  - && : false가 나오면 그 이후는 처리 x (어차피 false라서)★
 
-  - \|\| : true가 나오면 그 이후는 처리 하지 않음 (어차피 true라서)★
+  - \|\| : true가 나오면 그 이후는 처리 x (어차피 true라서)★
 
 ##### 예시
 
