@@ -6,28 +6,30 @@ categories:
 ---
 
 ### HelloWorld 출력하기
-
+#### 예시 소스
 ```java
- System.out.println("HelloWorld");
-  
+System.out.println("Hello World");
 ```
-***
-### 출력 시 옵션
+#### 출력 시 옵션
+1) 줄바꿈 : \n  
 ```java
-
-		
-		//1. 줄 바꿈 : \n
-		System.out.println("\n줄 바꿈");
-		//2. 간격(탭) \t
-		System.out.println("\t간격");
-		//3. '출력 : \'
-		System.out.println("\'출력");
-		//4. "출력 : \"
-		System.out.println("\"출력");
-		//3. \출력 : \\
-		System.out.println("\\출력");
- 
- 
+System.out.println("\n줄 바꿈");
+```
+2) 간격(탭) : \t  
+```java
+System.out.println("\t간격");
+```
+3) '출력 : \\'  
+```java
+System.out.println("\'출력");
+```
+4) "출력 : \\"  
+```java
+System.out.println("\"출력");
+```
+5) \출력 : \\\  
+```java
+System.out.println("\\출력");
 ```
 ***
  
