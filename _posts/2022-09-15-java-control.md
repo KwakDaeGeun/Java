@@ -8,7 +8,7 @@ categories:
 ### if ~ else if ~ else 조건문
 
 #### 형식
-1) if(조건식){실행문} else(아니면){실행문}
+1) if(조건식){실행문} else(아니면){실행문}  
 2) if(조건식){실행문} else if(조건식){실행문} else(아니면){실행문}
 > else 전까지 else if를 사용하여 계속 조건을 만들수 있다.
 
