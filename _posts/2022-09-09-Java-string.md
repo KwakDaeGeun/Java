@@ -51,6 +51,7 @@ System.out.println(str1.substring(1));
 ```java
 System.out.println(str1.substring(1,3));	
 ```  
+
 #### equals
 - 두 개의 문자열 비교(boolean)
 ```java    
