@@ -17,6 +17,7 @@ System.out.println(str1.toLowerCase());
 ```java
 System.out.println(str1.toUpperCase());
 ```
+  
 #### indexOf, charAt
 - 지정문자의 index 번호 반환
 ```java
@@ -49,7 +50,7 @@ System.out.println(str1.substring(1));
 - 지정한 첫 번째 index 부터 두 번째 index 직전 까지의 문자열을 반환
 ```java
 System.out.println(str1.substring(1,3));	
-```
+```  
 #### equals
 - 두 개의 문자열 비교(boolean)
 ```java    
