@@ -125,6 +125,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KwakDaeGeun"
+      target: _blank
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       # url: "https://instagram.com/"
@@ -141,6 +142,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KwakDaeGeun"
+      target: _blank
 #     - label: "GitLab"
 #       icon: "fab fa-fw fa-gitlab"
 #       # url:
