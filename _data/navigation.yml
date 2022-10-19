@@ -22,9 +22,9 @@ sidebar-category:
         url:  "/java"
         category: "java"
 
-      - title: "Database"
-        url:  "/database"
-        category: "database"
+      - title: "Orable"
+        url:  "/oracle"
+        category: "oracle"
 
       - title: "Html"
         url: "/html"
