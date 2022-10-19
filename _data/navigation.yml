@@ -8,8 +8,8 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Markdown Editor"
+    url: https://jbt.github.io/markdown-editor/
   - title: "Search"
     url: /search/
     
