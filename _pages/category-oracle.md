@@ -1,12 +1,12 @@
 ---
-title: "DataBase"
+title: "Oracle"
 layout: archive
-permalink: /database
+permalink: /oracle
 author_profile: true
 sidebar:                  
         nav: "sidebar-category" 
 ---
 
 
-{% assign posts = site.categories.database %}
+{% assign posts = site.categories.oracle %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
