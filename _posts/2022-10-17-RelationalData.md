@@ -82,8 +82,9 @@ SELECT * FROM TAB;
 
   - 테이블의 구조를 확인하기 위한 명령어로는 DESC가 있다.
 
+  - 형식  :  
 ```SQL
-형식 : DESC 테이블명
+ DESC 테이블명
 ```
 
 ![image](https://user-images.githubusercontent.com/113850146/197398716-01084618-0c05-422a-9e8d-8924996623ce.png)
@@ -108,8 +109,9 @@ SELECT * FROM TAB;
 
   - 데이터를 조회하기 위한 SQL 명령어.
 
+ - 형식  :  
 ```SQL
-형식  : SELECT [DISTINCT] {*, column[Alias]} FROM 테이블명;
+ SELECT [DISTINCT] {*, column[Alias]} FROM 테이블명;
 ```
 
 ### 산술 연산자
@@ -125,8 +127,9 @@ SELECT * FROM TAB;
 ### NVL
   - NULL을 0또는 다른 값으로 변환하기 위하여 NVL함수를 제공한다.
 
+  - 형식  : 
 ```SQL
-형식  : SELECT nvl(column,0)  FROM 테이블명;
+ SELECT nvl(column,0)  FROM 테이블명;
 ```
 
 ### 별칭
@@ -137,16 +140,18 @@ SELECT * FROM TAB;
 
   - 오라클에서 여러개의 컬럼을 연결할 때 사용하는 Concatenation 연산자로 "||" 수직바를 사용한다.
 
+  - 형식  : 
 ```SQL
-형식  : SELECT column1 || column2 FROM 테이블명;
+SELECT column1 || column2 FROM 테이블명;
 ```
 
 ### DISTINCT 키워드
 
   - 중복을 제거하는 키워드이다.
   
+  - 형식  :  
 ```SQL
-형식  : SELECT DISTINCT column FROM 테이블명;
+ SELECT DISTINCT column FROM 테이블명;
 ```
 
 
