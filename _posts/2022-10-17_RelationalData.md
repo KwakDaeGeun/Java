@@ -77,3 +77,77 @@ SELECT * FROM TAB;
  -- TAB 는 TABLE의 약자.
 ```
   
+### DESC
+  - 테이블에서 데이터를 조회하기 위해서는 테이블의 구조를 알아야 한다.
+
+  - 테이블의 구조를 확인하기 위한 명령어로는 DESC가 있다.
+
+```SQL
+형식 : DESC 테이블명
+```
+
+![image](https://user-images.githubusercontent.com/113850146/197398716-01084618-0c05-422a-9e8d-8924996623ce.png)
+
+  - DESC 명령어는 테이블의 컬럼 이름, 데이터 형, 길이와 NULL 허용 유무 등과 같은 특정 테이블의 정보를 알려준다.
+
+### 오라클의 데이터 형
+
+  - NUMBER : 숫자 데이터 저장
+
+  - DATE : 세기, 년, 월, 일, 시간, 분, 초의 날자 및 시간 데이터를 저장.
+
+  - CHAR : 고정 길이 문자 데이터를 저장하기 위한 자료형.
+  
+  ![image](https://user-images.githubusercontent.com/113850146/197398908-7c341297-6b40-488a-878d-c7576afbb45c.png)
+
+  - VARCHAR2 : 가변 길이 문자 데이터를 저장하기 위한 자료형
+  
+  ![image](https://user-images.githubusercontent.com/113850146/197398920-bbea8d21-5e2b-4f92-b342-3b3d4ef4b0f4.png)
+
+### SELECT
+
+  - 데이터를 조회하기 위한 SQL 명령어.
+
+```SQL
+형식  : SELECT [DISTINCT] {*, column[Alias]} FROM 테이블명;
+```
+
+### 산술 연산자
+
+![image](https://user-images.githubusercontent.com/113850146/197399049-53cd5feb-6af2-45db-86d5-c6538f81b0e7.png)
+
+### NULL
+
+  - 데이터 베이스에서 NULL은 중요한 데이터이다.
+
+  - NULL을 제대로 이해하지 못하고 쿼리문을 작성시 원하지 않은 결과를 얻을 수 있다.
+  
+### NVL
+  - NULL을 0또는 다른 값으로 변환하기 위하여 NVL함수를 제공한다.
+
+```SQL
+형식  : SELECT nvl(column,0)  FROM 테이블명;
+```
+
+### 별칭
+
+  - 원래의 컬럼명 대신 원하는 컬럼명으로 출력하고자 하는 구문 컬럼 뒤에 AS(alias) 라는 키워드를 쓴 후 별칭을 기술하여 출력
+
+### Concatenation 연산자
+
+  - 오라클에서 여러개의 컬럼을 연결할 때 사용하는 Concatenation 연산자로 "||" 수직바를 사용한다.
+
+```SQL
+형식  : SELECT column1 || column2 FROM 테이블명;
+```
+
+### DISTINCT 키워드
+
+  - 중복을 제거하는 키워드이다.
+  
+```SQL
+형식  : SELECT DISTINCT column FROM 테이블명;
+```
+
+
+
