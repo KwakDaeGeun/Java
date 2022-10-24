@@ -142,7 +142,7 @@ SELECT nvl(column,0)  FROM 테이블명;
 
 ### Concatenation 연산자
 
-- 오라클에서 여러개의 컬럼을 연결할 때 사용하는 Concatenation 연산자로 "||" 수직바를 사용한다.
+- 오라클에서 여러개의 컬럼을 연결할 때 사용하는 Concatenation 연산자로 "/|/|" 수직바를 사용한다.
 
 - 형식  : 
 
